@@ -50,7 +50,6 @@ on together, and the pattern repeats.
 ## Repository Contents
 - `blink_led.asm` - Task 1: single LED blink
 - `led_sequence.asm` - Task 2: four-LED sequence
-- `images/` - Proteus simulation screenshots
 
 ## Author
 Zain Rizwan - Electrical Engineer<br>
